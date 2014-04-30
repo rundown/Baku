@@ -1,0 +1,158 @@
+C:\Users\Peregrin Took\Downloads\A portable, fast, and free implementation of the MD5 Message-Digest Algorithm (RFC 1321) [Openwall Community Wiki].html
+C:\Users\Peregrin Took\Downloads\c++ - Correctly getting sha-1 for files using openssl - Stack Overflow.html
+C:\Users\Peregrin Took\Downloads\c++ - Get File Last Modify Time and Compare - Stack Overflow.html
+C:\Users\Peregrin Took\Downloads\c++ - VC++: How to get the time and date of a file? - Stack Overflow.html
+C:\Users\Peregrin Took\Downloads\C++ BSON Array Examples.html
+C:\Users\Peregrin Took\Downloads\C++ Driver Library.html
+C:\Users\Peregrin Took\Downloads\Connect from .NET to Oracle without installing the Oracle Client   Research ~ A ~ holic.htm
+C:\Users\Peregrin Took\Downloads\cpp-json - A simple, efficient JSON parsing library for C++ - Google Project Hosting.html
+C:\Users\Peregrin Took\Downloads\CSHA1 - A C++ Class Implementation of the SHA-1 Hash Algorithm - CodeProject.html
+C:\Users\Peregrin Took\Downloads\Example C Program: Creating an MD5 Hash from File Content (Windows).html
+C:\Users\Peregrin Took\Downloads\File And Folder Manipulation - Recursively - C And C++ | Dream.In.Code.html
+C:\Users\Peregrin Took\Downloads\Getting a recursive directory listing in C++ – Cheesy Code.html
+C:\Users\Peregrin Took\Downloads\Getting Started with the C++ Driver.html
+C:\Users\Peregrin Took\Downloads\git - Linus' sha1 is much faster!.html
+C:\Users\Peregrin Took\Downloads\How can I get a list of files in a directory using C or C++? - Stack Overflow.html
+C:\Users\Peregrin Took\Downloads\How to connect with your Oracle database without installing Oracle Client    Celemotan (TM)   Arsip berbagai hal.htm
+C:\Users\Peregrin Took\Downloads\how to create a batch file to invoke sqlplus and run procedure.htm
+C:\Users\Peregrin Took\Downloads\How to recursively search folders by using Visual C++.html
+C:\Users\Peregrin Took\Downloads\Improving the Performance of the Secure Hash Algorithm (SHA-1).html
+C:\Users\Peregrin Took\Downloads\Install MongoDB on Windows — MongoDB Manual 2.4.10.html
+C:\Users\Peregrin Took\Downloads\JsonCpp - JSON data format manipulation library.html
+C:\Users\Peregrin Took\Downloads\Linux Commands In Structured Order with Detailed Reference   LinOxide.htm
+C:\Users\Peregrin Took\Downloads\MD5 C++ implementation | Bobobobo's Weblog.html
+C:\Users\Peregrin Took\Downloads\MD5 checksum for file.html
+C:\Users\Peregrin Took\Downloads\Media Types.html
+C:\Users\Peregrin Took\Downloads\MIME Types - Complete List » HTML Elements| Learn HTML | Tags | Tutorials | HTML Cheat Sheet.html
+C:\Users\Peregrin Took\Downloads\multithreading - Python 3.3 Simple threading event example. - Stack Overflow.htm
+C:\Users\Peregrin Took\Downloads\py2nsis Tutorial   Code Science.htm
+C:\Users\Peregrin Took\Downloads\Recursively list directories in C.html
+C:\Users\Peregrin Took\Downloads\Retrieving and Changing File Attributes (Windows).html
+C:\Users\Peregrin Took\Downloads\Retrieving the Last-Write Time (Windows).html
+C:\Users\Peregrin Took\Downloads\SIMPLE threading tutorial   DaniWeb.htm
+C:\Users\Peregrin Took\Downloads\SQLPLUS command line with DOS batch file - Stack Overflow.htm
+C:\Users\Peregrin Took\Downloads\The Occasional — The Police Report That Inspired ‘Clue’.htm
+C:\Users\Peregrin Took\Downloads\user-guide.html
+C:\Users\Peregrin Took\Downloads\What, Me Exercise .htm
+C:\Users\Peregrin Took\Downloads\WIN32_FIND_DATA structure (Windows).html
+C:\Users\Peregrin Took\Downloads\A portable, fast, and free implementation of the MD5 Message-Digest Algorithm (RFC 1321) [Openwall Community Wiki]_files\sh155.html
+C:\Users\Peregrin Took\Downloads\Connect from .NET to Oracle without installing the Oracle Client   Research ~ A ~ holic_files\master.htm
+C:\Users\Peregrin Took\Downloads\Connect from .NET to Oracle without installing the Oracle Client   Research ~ A ~ holic_files\saved_resource(5).htm
+C:\Users\Peregrin Took\Downloads\Connect from .NET to Oracle without installing the Oracle Client   Research ~ A ~ holic_files\saved_resource.htm
+C:\Users\Peregrin Took\Downloads\CSHA1 - A C++ Class Implementation of the SHA-1 Hash Algorithm - CodeProject_files\fastbutton.html
+C:\Users\Peregrin Took\Downloads\CSHA1 - A C++ Class Implementation of the SHA-1 Hash Algorithm - CodeProject_files\like.html
+C:\Users\Peregrin Took\Downloads\CSHA1 - A C++ Class Implementation of the SHA-1 Hash Algorithm - CodeProject_files\postmessageRelay.html
+C:\Users\Peregrin Took\Downloads\CSHA1 - A C++ Class Implementation of the SHA-1 Hash Algorithm - CodeProject_files\tweet_button.html
+C:\Users\Peregrin Took\Downloads\CSHA1 - A C++ Class Implementation of the SHA-1 Hash Algorithm - CodeProject_files\wTH8U0osOYl.html
+C:\Users\Peregrin Took\Downloads\CSHA1 - A C++ Class Implementation of the SHA-1 Hash Algorithm - CodeProject_files\wTH8U0osOYl_002.html
+C:\Users\Peregrin Took\Downloads\git - Linus' sha1 is much faster!_files\s2.html
+C:\Users\Peregrin Took\Downloads\How to connect with your Oracle database without installing Oracle Client    Celemotan (TM)   Arsip berbagai hal_files\master.htm
+C:\Users\Peregrin Took\Downloads\How to connect with your Oracle database without installing Oracle Client    Celemotan (TM)   Arsip berbagai hal_files\saved_resource(5).htm
+C:\Users\Peregrin Took\Downloads\How to connect with your Oracle database without installing Oracle Client    Celemotan (TM)   Arsip berbagai hal_files\saved_resource(6).htm
+C:\Users\Peregrin Took\Downloads\How to connect with your Oracle database without installing Oracle Client    Celemotan (TM)   Arsip berbagai hal_files\saved_resource.htm
+C:\Users\Peregrin Took\Downloads\how to create a batch file to invoke sqlplus and run procedure_files\saved_resource.htm
+C:\Users\Peregrin Took\Downloads\how to create a batch file to invoke sqlplus and run procedure_files\wTH8U0osOYl(1).htm
+C:\Users\Peregrin Took\Downloads\how to create a batch file to invoke sqlplus and run procedure_files\wTH8U0osOYl.htm
+C:\Users\Peregrin Took\Downloads\Linux Commands In Structured Order with Detailed Reference   LinOxide_files\wTH8U0osOYl(1).htm
+C:\Users\Peregrin Took\Downloads\Linux Commands In Structured Order with Detailed Reference   LinOxide_files\wTH8U0osOYl.htm
+C:\Users\Peregrin Took\Downloads\MD5 checksum for file_files\postmessageRelay.html
+C:\Users\Peregrin Took\Downloads\MD5 checksum for file_files\sharebutton.html
+C:\Users\Peregrin Took\Downloads\MD5 checksum for file_files\share_button.html
+C:\Users\Peregrin Took\Downloads\MD5 checksum for file_files\tweet_button.html
+C:\Users\Peregrin Took\Downloads\MD5 checksum for file_files\wTH8U0osOYl.html
+C:\Users\Peregrin Took\Downloads\MD5 checksum for file_files\wTH8U0osOYl_002.html
+C:\Users\Peregrin Took\Downloads\ODAC112040Xcopy_32bit\readme.htm
+C:\Users\Peregrin Took\Downloads\ODAC112040Xcopy_32bit\asp.net\asp.net\doc\readme.htm
+C:\Users\Peregrin Took\Downloads\ODAC112040Xcopy_32bit\asp.net4\asp.net\doc\readme.htm
+C:\Users\Peregrin Took\Downloads\ODAC112040Xcopy_32bit\odp.net20\odp.net\doc\readme.htm
+C:\Users\Peregrin Took\Downloads\ODAC112040Xcopy_32bit\odp.net4\odp.net\doc\readme.htm
+C:\Users\Peregrin Took\Downloads\ODAC112040Xcopy_32bit\oledb\oledb\readme.htm
+C:\Users\Peregrin Took\Downloads\ODAC112040Xcopy_32bit\oo4o\oo4o\doc\readme.htm
+C:\Users\Peregrin Took\Downloads\py2nsis Tutorial   Code Science_files\master.htm
+C:\Users\Peregrin Took\Downloads\py2nsis Tutorial   Code Science_files\saved_resource(5).htm
+C:\Users\Peregrin Took\Downloads\py2nsis Tutorial   Code Science_files\saved_resource(6).htm
+C:\Users\Peregrin Took\Downloads\py2nsis Tutorial   Code Science_files\saved_resource.htm
+C:\Users\Peregrin Took\Downloads\SIMPLE threading tutorial   DaniWeb_files\wTH8U0osOYl(1).htm
+C:\Users\Peregrin Took\Downloads\SIMPLE threading tutorial   DaniWeb_files\wTH8U0osOYl.htm
+C:\Users\Peregrin Took\Downloads\Softmotions-ejdb-1b325b5\tcejdb\doc\index.html
+C:\Users\Peregrin Took\Downloads\Softmotions-ejdb-1b325b5\tcejdb\doc\index.ja.html
+C:\Users\Peregrin Took\Downloads\Softmotions-ejdb-1b325b5\tcejdb\doc\spex-en.html
+C:\Users\Peregrin Took\Downloads\Softmotions-ejdb-1b325b5\tcejdb\doc\spex-ja.html
+C:\Users\Peregrin Took\Downloads\SQLPLUS command line with DOS batch file - Stack Overflow_files\read.htm
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\ReleaseNotes.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\StaticImg.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\Syn2FingerFlick.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\Syn2FingerScrolling.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\Syn3FingerFlick.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\Syn3FingerPress.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\Syn4FingerFlick.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\Syn4FingerFlickLeftRight.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\Syn4FingerFlickUpDown.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynAccessibility.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynButtons.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynClicking.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynCoverGesture.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynEdgeMotion.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynEdgePulls.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynLockingDrags.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynMomentum.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynMultiFingerGestures.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynPalmCheck.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynPinchZoom.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynPointing.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynRotating.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynScrolling.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynScrollingChiral.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynScrollingHorizontal.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynScrollingVertical.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynSensitivity.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynSmartSense.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynTapping.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynTouchStykButton.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynTouchStykSelect.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynTouchStykSensitivity.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynTwistRotate.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x64\SynWakeup.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\ReleaseNotes.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\StaticImg.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\Syn2FingerFlick.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\Syn2FingerScrolling.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\Syn3FingerFlick.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\Syn3FingerPress.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\Syn4FingerFlick.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\Syn4FingerFlickLeftRight.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\Syn4FingerFlickUpDown.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynAccessibility.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynButtons.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynClicking.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynCoverGesture.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynEdgeMotion.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynEdgePulls.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynLockingDrags.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynMomentum.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynMultiFingerGestures.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynPalmCheck.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynPinchZoom.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynPointing.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynRotating.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynScrolling.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynScrollingChiral.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynScrollingHorizontal.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynScrollingVertical.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynSensitivity.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynSmartSense.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynTapping.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynTouchStykButton.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynTouchStykSelect.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynTouchStykSensitivity.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynTwistRotate.html
+C:\Users\Peregrin Took\Downloads\Synaptics_v17_0_19_C_XP32_Vista32_Win7-32_XP64_Vista64_Win7-64_Acme_Inc\WinWDF\x86\SynWakeup.html
+C:\Users\Peregrin Took\Downloads\dive-into-python3.pdf
+C:\Users\Peregrin Took\Downloads\e10706.pdf
+C:\Users\Peregrin Took\Downloads\e23174.pdf
+C:\Users\Peregrin Took\Downloads\eGenix-PyRun.pdf
+C:\Users\Peregrin Took\Downloads\linux_command_shelf_pdf_ver1_1.pdf
+C:\Users\Peregrin Took\Downloads\march 2014.pdf
+C:\Users\Peregrin Took\Downloads\user-guide.pdf
+C:\Users\Peregrin Took\Downloads\Softmotions-ejdb-1b325b5\tcejdb\doc\benchmark.pdf
+C:\Users\Peregrin Took\Downloads\Softmotions-ejdb-1b325b5\tcejdb\doc\tokyoproducts.pdf

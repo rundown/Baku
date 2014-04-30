@@ -1,0 +1,7 @@
+C:\Users\Peregrin Took\documents\visual studio 2013\Projects\Baku\Baku\bin\Release\Baku.exe
+C:\Users\Peregrin Took\documents\visual studio 2013\Projects\Baku\Baku\bin\Release\Baku.pdb
+C:\Users\Peregrin Took\documents\visual studio 2013\Projects\Baku\Baku\obj\Release\Baku.FormMain.resources
+C:\Users\Peregrin Took\documents\visual studio 2013\Projects\Baku\Baku\obj\Release\Baku.Properties.Resources.resources
+C:\Users\Peregrin Took\documents\visual studio 2013\Projects\Baku\Baku\obj\Release\Baku.csproj.GenerateResource.Cache
+C:\Users\Peregrin Took\documents\visual studio 2013\Projects\Baku\Baku\obj\Release\Baku.exe
+C:\Users\Peregrin Took\documents\visual studio 2013\Projects\Baku\Baku\obj\Release\Baku.pdb
